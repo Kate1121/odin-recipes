@@ -27,7 +27,6 @@ img {
 }
 
 h2 {
-    font-size: 30px;
     padding: 5px;
     margin-bottom: 2px;
     font-style: oblique;
@@ -54,4 +53,30 @@ h2 {
 .right {
     float: right;
     padding-right: 20px;
+}
+
+.color {
+    background-color: rgb(250, 215, 156);
+}
+
+p,
+li {
+    padding: 2px;
+}
+
+p {
+    padding: 5px;
+    margin-top: 2px;
+    font-style: italic;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol,
+ul {
+    padding-bottom: 5px;
+    padding-right: 5px;
+    margin-top: 2px;
 }
