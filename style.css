@@ -13,3 +13,11 @@ div {
     border-left: 75px solid black;
     box-shadow: 10px 10px 25px rgb(0, 0, 0);
 }
+
+h1 {
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
