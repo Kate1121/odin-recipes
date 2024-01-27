@@ -2,3 +2,14 @@ body {
     background-image: url(https://img.freepik.com/free-vector/red-white-gingham-pattern_1048-8291.jpg);
     background-color: red;
 }
+
+div {
+    background-color: #fdfcf7;
+    width: 50%;
+    height: auto;
+    padding: 0% 5% 3% 5%;
+    margin: 10% auto;
+    border: 2px solid black;
+    border-left: 75px solid black;
+    box-shadow: 10px 10px 25px rgb(0, 0, 0);
+}
