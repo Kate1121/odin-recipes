@@ -21,3 +21,45 @@ h1 {
     text-decoration: underline;
     text-decoration-style: dashed;
 }
+
+li {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 15px 70px 15px 15px;
+    margin: 10px;
+}
+
+.recipe {
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: 50%;
+    background-color: red;
+}
+
+.recipe:hover {
+    border: 5px solid black;
+}
+
+#conch-fritters {
+    background-image: url(https://i.pinimg.com/originals/74/c8/43/74c8431b7d9e6010debe04cce6aa6c2b.jpg);
+}
+
+#lobster-alfredo {
+    background-image: url(https://realhousemoms.com/wp-content/uploads/Lobster-Alfredo-FB-LINK.jpg);
+}
+
+#shrimp-and-sausage-gumbo {
+    background-image: url(https://thealmondeater.com/wp-content/uploads/2022/04/sausage-and-shrimp-gumbo_web-8.jpg);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
