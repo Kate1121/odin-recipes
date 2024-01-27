@@ -1,3 +1,22 @@
+@media (max-width: 765px) {
+    body>div {
+        border-left: 2px solid black;
+        border-top: 75px solid black;
+        width: fit-content;
+        margin: 5% auto;
+        box-shadow: none;
+    }
+
+    li.recipe {
+        background-size: 50%;
+    }
+
+    li>a {
+        width: 55%;
+        display: block;
+    }
+}
+
 body {
     background-image: url(https://img.freepik.com/free-vector/red-white-gingham-pattern_1048-8291.jpg);
     background-color: red;
