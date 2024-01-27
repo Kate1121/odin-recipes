@@ -26,6 +26,21 @@ img {
     box-shadow: 5px 5px 20px rgb(198, 190, 190);
 }
 
+h2 {
+    font-size: 30px;
+    padding: 5px;
+    margin-bottom: 2px;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#ingredients,
+#steps {
+    text-align: left;
+    margin: 1px;
+}
+
 .left,
 .right {
     width: 45%;
