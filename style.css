@@ -27,7 +27,7 @@ div {
     width: 50%;
     height: auto;
     padding: 0% 5% 3% 5%;
-    margin: 10% auto;
+    margin: 10% auto 5%;
     border: 2px solid black;
     border-left: 75px solid black;
     box-shadow: 10px 10px 25px rgb(0, 0, 0);
@@ -81,4 +81,16 @@ a:hover {
     color: white;
     text-decoration: underline;
     text-decoration-style: wavy;
+}
+
+p {
+    margin: 0px;
+    text-align: right;
+    font-family: sans-serif;
+    text-shadow: 1px 1px rgb(107, 105, 105);
+    font-weight: bold;
+}
+
+.attribution:hover {
+    color: black;
 }
