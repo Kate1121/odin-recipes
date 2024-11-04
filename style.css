@@ -54,6 +54,7 @@ li {
     background-position-x: 100%;
     background-position-y: 50%;
     background-color: red;
+    border: 5px solid #fdfcf7;
 }
 
 .recipe:hover {
